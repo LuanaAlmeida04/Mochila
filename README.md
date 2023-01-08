@@ -1,6 +1,8 @@
 # MOCHILA INTERATIVA
 Uma mochila interativa em que se pode estar adicionando itens a ela sem que o dado se perca ao atualizar a página (famoso F5)
 
+**Teste agora clicando no link ao lado: https://joaoadorno04.github.io/Mochila/**
+
 ## DESENVOLVIMENTO
 Projeto feito em conjunto com o curso de JavaScript na Web: armazenando dados no navegador da Alura. Sen com objetivo de fixar os conhecimentos de interatividade com a página e também sobre armazenamento local de dados na web. Durante o curso, foi usado 100% Javascript emcima de HTML e CSS. 
 
